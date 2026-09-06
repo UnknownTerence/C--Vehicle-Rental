@@ -11,7 +11,9 @@
                 "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "main.cpp",
                 "classes/Vehicle.cpp",
-                "classes/Car.cpp"
+                "classes/Car.cpp",
+                "classes/CarType.cpp",
+                "classes/Motorcycle.cpp"
             ],
             "options": {
                 "cwd": "${fileDirname}"
